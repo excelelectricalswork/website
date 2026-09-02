@@ -362,19 +362,19 @@
   <div class="title">
     <small>MOTOR REWINDING</small>
     <h2>Motor Winding</h2>
-    <p>Professional winding and rewinding-related images.</p>
+    <p>Professional winding and rewinding-related images</p>
   </div>
 
     <div class="winding-card">
       <img src="motor%20wind..webp" alt="Stator Winding">
       <h3>Stator Winding</h3>
-      <p>Professional electric motor winding service.</p>
+      <p>Professional electric motor winding service</p>
     </div>
 
     <div class="winding-card">
       <img src="repair%20motor.webp" alt="Motor Rewinding">
       <h3>Motor Rewinding</h3>
-      <p>Complete motor rewinding and repair work.</p>
+      <p>Complete motor rewinding and repair work</p>
     </div>
   </div>
 
