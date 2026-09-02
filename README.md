@@ -344,12 +344,14 @@
 
   <div class="motor-card">
     <img src="25%20Hp.jpg" alt="25 HP Motor">
+   <div class="motor-info">
    <h3>motor Components</h3>
    <p>Motor parts and repair componment.</p>
   </div>
 
   <div class="motor-card">
     <img src="75%20Hp.webp" alt="75 HP Motor">
+   <div class="motor-info">
    <h3>Motor Winding</h3>
    <p>Electrical winding and rewinding service.</p>
   </div>
