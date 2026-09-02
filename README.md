@@ -46,7 +46,7 @@
                 nav a: hover {
                     color: #ffbd00;
                 }
-        /* HERO */
+        /* hero */
 
         .hero {
             min-height: 85vh;
@@ -97,14 +97,14 @@
                 border-radius: 20px;
                 border: 2px solid #ffbd00;
             }
-        /* SECTION */
+        /* section */
 
         section {
             padding: 90px 7%;
         }
 
         .title {
-            text-align: center;
+            text-align: centre;
             margin-bottom: 50px;
         }
 
@@ -123,7 +123,7 @@
                 color: #9ea5ad;
                 margin-top: 10px;
             }
-        /* MOTOR GALLERY */
+        /* motor gallery */
 
         .motor-gallery {
             background: #0d1117;
@@ -167,7 +167,7 @@
                 color: #aeb5bd;
                 font-size: 14px;
             }
-        /* WINDING */
+        /* winding */
 
         .winding {
             background: #080a0d;
@@ -208,7 +208,7 @@
             .winding-text p {
                 color: #ddd;
             }
-        /* SERVICES */
+        /* service */
 
         .services {
             background: #0d1117;
@@ -235,7 +235,7 @@
             .service p {
                 color: #aeb5bd;
             }
-        /* CONTACT */
+        /* contact */
 
         .contact {
             text-align: centre;
@@ -261,7 +261,7 @@
             footer span {
                 color: #ffbd00;
             }
-        /* MOBILE */
+        /* mobile */
 
         @media(max-width:850px) {
             .hero {
