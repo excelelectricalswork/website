@@ -1,10 +1,10 @@
-
- <html lang="en" >
- <head >
- <meta charset="UTF-8" >
- <meta name="viewport" content="width=device-width, initial-scale=1.0" >
- <title > Excel Electricals | Motor Winding & Repair</title >
-  <style>
+     <style>
+        <!DOCTYPE html >
+        <html lang="en" >
+        <head >
+        <meta charset="UTF-8" >
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+        <title > Excel Electricals | Motor Winding & Repair</title >
         * {
             margin: 0;
             padding: 0;
@@ -12,7 +12,7 @@
         }
 
         body {
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: Arial,Helvetica,sans-serif;
             background: #080a0d;
             color: #fff;
         }
@@ -43,15 +43,15 @@
                 font-size: 14px;
             }
 
-                nav a: hover {
+                nav a:hover {
                     color: #ffbd00;
                 }
-        /* hero */
+        /* HERO */
 
         .hero {
             min-height: 85vh;
             display: flex;
-            align-items: centre;
+            align-items: center;
             padding: 80px 7%;
             background: #090c10;
         }
@@ -97,14 +97,14 @@
                 border-radius: 20px;
                 border: 2px solid #ffbd00;
             }
-        /* section */
+        /* SECTION */
 
         section {
             padding: 90px 7%;
         }
 
         .title {
-            text-align: centre;
+            text-align: center;
             margin-bottom: 50px;
         }
 
@@ -123,7 +123,7 @@
                 color: #9ea5ad;
                 margin-top: 10px;
             }
-        /* motor gallery */
+        /* MOTOR GALLERY */
 
         .motor-gallery {
             background: #0d1117;
@@ -136,38 +136,38 @@
         }
 
         .motor-card {
-     background: #151a21;
-     border: 1px solid #2b323b;
-     border-radius: 15px;
-     transition: .3s;
- }
+            background: #151a21;
+            border: 1px solid #2b323b;
+            border-radius: 15px;
+            overflow: hidden;
+            transition: .3s;
+        }
 
-     .motor-card:hover {
-         transform: translateY(-8px);
-         border-color: #ffbd00;
-     }
+            .motor-card:hover {
+                transform: translateY(-8px);
+                border-color: #ffbd00;
+            }
 
-     .motor-card img {
-         width: 100%;
-         height: 250px;
-         object-fit: cover;
-     }
+            .motor-card img {
+                width: 100%;
+                height: 250px;
+                object-fit: cover;
+            }
 
- .motor-info {
-     padding: 20px;
- }
+        .motor-info {
+            padding: 20px;
+        }
 
-     .motor-info h3 {
-         color: #ffbd00;
-         margin-bottom: 8px;
-         
-     }
+            .motor-info h3 {
+                color: #ffbd00;
+                margin-bottom: 8px;
+            }
 
-     .motor-info p {
-         color: #aeb5bd;
-         font-size: 14px;
-     }
-        /* winding */
+            .motor-info p {
+                color: #aeb5bd;
+                font-size: 14px;
+            }
+        /* WINDING */
 
         .winding {
             background: #080a0d;
@@ -208,7 +208,7 @@
             .winding-text p {
                 color: #ddd;
             }
-        /* service */
+        /* SERVICES */
 
         .services {
             background: #0d1117;
@@ -235,10 +235,10 @@
             .service p {
                 color: #aeb5bd;
             }
-        /* contact */
+        /* CONTACT */
 
         .contact {
-            text-align: centre;
+            text-align: center;
             background: #080a0d;
         }
 
@@ -252,7 +252,7 @@
             }
 
         footer {
-            text-align: centre;
+            text-align: center;
             padding: 30px;
             border-top: 1px solid #252b33;
             color: #777;
@@ -261,11 +261,11 @@
             footer span {
                 color: #ffbd00;
             }
-        /* mobile */
+        /* MOBILE */
 
         @media(max-width:850px) {
             .hero {
-               
+                flex-direction: column;
             }
 
             .hero-content, .hero-image {
@@ -301,83 +301,12 @@
             .hero-image img {
                 height: 300px;
             }
+            
+        }
        
     </style>
 </head>
 <body>
-
-    <!-- HEADER --> <header> <div class="logo"> ⚡ EXCEL ELECTRICALS </div> <nav> <a href="#home">Home</a> <a href="#motors">Motors</a> <a href="#winding">Winding</a> <a href="#services">Services</a> <a href="#contact">Contact</a> </nav> </header> <!-- HERO --> <section class="hero" id="home"> <div class="hero-content"> <h1> ELECTRIC MOTOR <span>WINDING & REPAIR</span> </h1> <p> Professional electric motor rewinding, motor repair, stator winding, rotor service and motor component replacement in Choondy, Aluva. </p> <a class="button" href="tel:+918590259451"> 📞 CALL NOW </a> <a class="button" href="mailto:excelelectricalswork@gmail.com">Email </a> </div> <div class="hero-image"> <!-- ELECTRIC MOTOR IMAGE --> <img src="75%20Hp.webp" alt="75 HP Motor"> </div> </section> <!-- MOTOR PICTURES --> <section class="motor-gallery" id="motors"> <div class="title"> <small>ELECTRIC MOTOR</small> <h2>Motor Pictures</h2> <p> Electric motors, stators, rotors and motor components </p> </div> <div class="gallery">
-    
-  <div class="motor-card">
-    <img src="Inducton%20motor.webp" alt="Induction Motor">
-    <div class="motor-info">
-      <h3>Electric Motor</h3>
-      <p>Electric motor repair and maintenance.</p>
-    </div>
-  </div>
-
-  <div class="motor-card">
-    <img src="Motor.webp" alt="Electric Motor">
-    <div class="motor-info">
-      <h3>Electric Motor</h3>
-      <p>Motor service and electrical maintenance.</p>
-    </div>
-  </div>
-
-  <div class="motor-card">
-    <img src="Field%20Winding.webp" alt="Field Winding">
-    <div class="motor-info">
-      <h3>Motor Stator</h3>
-      <p>Stator and electrical motor components.</p>
-    </div>
-  </div>
-
-  <div class="motor-card">
-    <img src="Ex%20Rotor%20winding.webp" alt="Rotor Winding">
-    <div class="motor-info">
-      <h3>Motor Stator</h3>
-      <p>Stator and electrical motor compnment.</p>
-    </div>
-  </div>
-
-  <div class="motor-card">
-    <img src="25%20Hp.jpg" alt="25 HP Motor">
-   <div class="motor-info">
-   <h3>motor Components</h3>
-   <p>Motor parts and repair components.</p>
-  </div>
- </div>
-   
- <div class="motor-card">
-    <img src="75%20Hp.webp" alt="75 HP Motor">
-   <div class="motor-info">
-   <h3>Motor Winding</h3>
-   <p>Electrical winding and rewinding service.</p>
-    </div>
-  </div>
-  
-    </section>
-
-<!-- WINDING SECTION -->
-<section class="winding" id="winding">
-  <div class="title">
-    <small>MOTOR REWINDING</small>
-    <h2>Motor Winding</h2>
-    <p>Professional winding and rewinding-related images.</p>
-  </div>
-
-  <div class="winding-grid">
-    <div class="winding-card">
-      <img src="motor%20wind.webp" alt="Stator Winding">
-      <h3>Stator Winding</h3>
-      <p>Professional electric motor winding service.</p>
-    </div>
-
-    <div class="winding-card">
-      <img src="repair%20motor.webp" alt="Motor Rewinding">
-      <h3>Motor Rewinding</h3>
-      <p>Complete motor rewinding and repair work.</p>
-    </div>
-  </div>
-  
-</section> <!-- SERVICES --> <section class="services" id="services"> <div class="title"> <small>OUR SERVICES</small> <h2>Motor Services</h2> </div> <div class="service-grid"> <div class="service"> <h3>⚡ Motor Winding</h3> <p> Motor winding and rewinding for electric motors. </p> </div> <div class="service"> <h3>⚙️ Motor Repair</h3> <p> Complete electrical and mechanical motor repair. </p> </div> <div class="service"> <h3>🔩 Bearing Change</h3> <p> Bearing inspection and replacement. </p> </div> <div class="service"> <h3>🔋 Capacitor Change</h3> <p> Motor capacitor testing and replacement. </p> </div> <div class="service"> <h3>🌀 Stator & Coil</h3> <p> Stator coil and winding related service. </p> </div> <div class="service"> <h3>🔧 Motor Parts</h3> <p> Motor component replacement and fitting. </p> </div> </div> </section> <!-- CONTACT --> <section class="contact" id="contact"> <h2>EXCEL ELECTRICALS</h2> <p> Motor Winding & Repair<br> Choondy, Aluva, Kerala </p> <a class="button" href="https://wa.me/918590259451" target="_blank"> 💬 WHATSAPP </a> <a class="button" href="tel:+918590259451"> 📞 CALL </a> <a class="button"  href="mailto:excelelectricalswork@gmail.com" >Email </a> <!-- FOOTER --> <footer> <p> © 2026 <span>EXCEL ELECTRICALS</span> </p> GSTIN/UIN:32AAGPX3837Q1ZZ <p> Motor Winding • Motor Repair • Choondy • Aluva Kerala </p> </footer>
+    <!-- HEADER --> <header> <div class="logo"> ⚡ EXCEL ELECTRICALS </div> <nav> <a href="#home">Home</a> <a href="#motors">Motors</a> <a href="#winding">Winding</a> <a href="#services">Services</a> <a href="#contact">Contact</a> </nav> </header> <!-- HERO --> <section class="hero" id="home"> <div class="hero-content"> <h1> ELECTRIC MOTOR <span>WINDING & REPAIR</span> </h1> <p> Professional electric motor rewinding, motor repair, stator winding, rotor service and motor component replacement in Choondy, Aluva. </p> <a class="button" href="tel:+918590259451"> 📞 CALL NOW </a> <a class="button" href="mailto:excelelectricalswork@gmail.com">Email</> </a> </div> <div class="hero-image"> <!-- ELECTRIC MOTOR IMAGE --> <img src="75%20Hp.webp" alt="75 HP Motor"> </div> </section> <!-- MOTOR PICTURES --> <section class="motor-gallery" id="motors"> <div class="title"> <small>ELECTRIC MOTOR</small> <h2>Motor Pictures</h2> <p> Electric motors, stators, rotors and motor components </p> </div> <div class="gallery"> <div class="motor-card"> <img <img src="Inducton%20motor.webp" alt="Induction Motor"> <div class="motor-info"> <h3>Electric Motor</h3> <p> Electric motor repair and maintenance. </p> </div> </div> <div class="motor-card">   <img src="Motor.webp" alt="Electric Motor"> <div class="motor-info"> <h3>Electric Motor</h3> <p> Motor service and electrical maintenance. </p> </div> </div> <div class="motor-card"> <img src="Field%20Winding.webp" alt="Field Winding"> <div class="motor-info"> <h3>Motor Repair</h3> <p> Motor dismantling, checking and repair. </p> </div> </div> <div class="motor-card"> <img src="Ex%20Rotor%20winding.webp" alt="Rotor Winding"> <div class="motor-info"> <h3>Motor Stator</h3> <p> Stator and electrical motor components. </p> </div> </div> <div class="motor-card"> <img src="25%20Hp.jpg" alt="25 HP Motor"> <div class="motor-info"> <h3>Motor Components</h3> <p> Motor parts and repair components. </p> </div> </div> <div class="motor-card"> <img src="75%20Hp.webp" alt="75 HP Motor"><div class="motor-info"> <h3>Motor Winding</h3> <p> Electrical winding and rewinding service. </p> </div> </div> </div> </section> <!-- WINDING --> <section class="winding" id="winding"> <div class="title"> <small>MOTOR REWINDING</small> <h2>Motor Winding</h2> <p> Professional winding and rewinding related images </p> </div> <div class="winding-grid"> <div class="winding-card">   <img src="motor%20wind..webp" alt="Stator Winding"> <div class="winding-text"> <h3>Stator Winding</h3> <p> Professional electric motor winding service. </p> </div> </div> <div class="winding-card">  <img src="repair%20motor.webp" alt="Motor Rewinding"> <div class="winding-text"> <h3>Motor Rewinding</h3> <p> Complete motor rewinding and repair work. </p> </div> </div> </div> </section> <!-- SERVICES --> <section class="services" id="services"> <div class="title"> <small>OUR SERVICES</small> <h2>Motor Services</h2> </div> <div class="service-grid"> <div class="service"> <h3>⚡ Motor Winding</h3> <p> Motor winding and rewinding for electric motors. </p> </div> <div class="service"> <h3>⚙️ Motor Repair</h3> <p> Complete electrical and mechanical motor repair. </p> </div> <div class="service"> <h3>🔩 Bearing Change</h3> <p> Bearing inspection and replacement. </p> </div> <div class="service"> <h3>🔋 Capacitor Change</h3> <p> Motor capacitor testing and replacement. </p> </div> <div class="service"> <h3>🌀 Stator & Coil</h3> <p> Stator coil and winding related service. </p> </div> <div class="service"> <h3>🔧 Motor Parts</h3> <p> Motor component replacement and fitting. </p> </div> </div> </section> <!-- CONTACT --> <section class="contact" id="contact"> <h2>EXCEL ELECTRICALS</h2> <p> Motor Winding & Repair<br> Choondy, Aluva, Kerala </p> <a class="button" href="https://wa.me/918590259451" target="_blank"> 💬 WHATSAPP </a> <a class="button" href="tel:+918590259451"> 📞 CALL </a> <a class="button"  href="mailto:excelelectricalswork@gmail.com" >Email </> </a> <!-- FOOTER --> <footer> <p> © 2026 <span>EXCEL ELECTRICALS</span> </p> GSTIN/UIN:32AAGPX3837Q1ZZ <p> Motor Winding • Motor Repair • Choondy • Aluva </p> </footer>
+</body>
+</html>
