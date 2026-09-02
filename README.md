@@ -365,14 +365,12 @@
     <h2>Motor Winding</h2>
     <p>Professional winding and rewinding-related images</p>
   </div>
-</div>
  
      <div class="winding-grid">
      <div class="winding-card">
       <img src="motor%20wind..webp" alt="Stator Winding">
       <h3>Stator Winding</h3>
       <p>Professional electric motor winding service</p>
-    </div>
     </div>
 
     <div class="winding-card">
