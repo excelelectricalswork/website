@@ -265,7 +265,7 @@
 
         @media(max-width:850px) {
             .hero {
-                flex-direction: column;
+               
             }
 
             .hero-content, .hero-image {
