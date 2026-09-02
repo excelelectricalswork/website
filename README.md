@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Excel Electricals | Motor Winding & Repair</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <!-- Your header code starts here -->
-  <header>
+ <!DOCTYPE html >
+ <html lang="en" >
+ <head >
+ <meta charset="UTF-8" >
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+ <title > Excel Electricals | Motor Winding & Repair</title >
         * {
             margin: 0;
             padding: 0;
