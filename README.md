@@ -141,6 +141,8 @@
      border-radius: 15px;
      overflow: hidden;
      transition: .3s;
+     display: flex
+     flex-direction: column;
  }
 
      .motor-card:hover {
@@ -160,7 +162,8 @@
 
      .motor-info h3 {
          color: #ffbd00;
-         margin-bottom: 8px;
+         margin-bottom: 18px;
+         
      }
 
      .motor-info p {
