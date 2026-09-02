@@ -12,7 +12,7 @@
         }
 
         body {
-            font-family: Arial,Helvetica,sans-serif;
+            font-family: Arial, Helvetica, sans-serif;
             background: #080a0d;
             color: #fff;
         }
@@ -43,7 +43,7 @@
                 font-size: 14px;
             }
 
-                nav a:hover {
+                nav a: hover {
                     color: #ffbd00;
                 }
         /* HERO */
@@ -51,7 +51,7 @@
         .hero {
             min-height: 85vh;
             display: flex;
-            align-items: center;
+            align-items: centre;
             padding: 80px 7%;
             background: #090c10;
         }
@@ -104,7 +104,7 @@
         }
 
         .title {
-            text-align: center;
+            text-align: centre;
             margin-bottom: 50px;
         }
 
@@ -238,7 +238,7 @@
         /* CONTACT */
 
         .contact {
-            text-align: center;
+            text-align: centre;
             background: #080a0d;
         }
 
@@ -252,7 +252,7 @@
             }
 
         footer {
-            text-align: center;
+            text-align: centre;
             padding: 30px;
             border-top: 1px solid #252b33;
             color: #777;
