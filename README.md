@@ -1,4 +1,4 @@
-     <style>
+     </style>
         <!DOCTYPE html >
         <html lang="en" >
         <head >
