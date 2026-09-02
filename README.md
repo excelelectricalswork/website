@@ -283,7 +283,7 @@
             .gallery, .service-grid {
                 grid-template-columns: 1fr 1fr;
             }
-        }
+        
 
         @media(max-width:550px) {
             .gallery, .winding-grid, .service-grid {
