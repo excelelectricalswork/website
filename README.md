@@ -470,7 +470,7 @@
 
     <!-- FOOTER -->
     <footer>
-        <p>© 2026 <span>EXCEL ELECTRICALS</span> | GSTIN/UIN: 32AAGPX3837Q1Z5</p>
+        <p>© 2026 <span>EXCEL ELECTRICALS</span> | GSTIN: 32AAGPX3837Q1Z5</p>
     </footer>
 
 </body>
