@@ -283,7 +283,7 @@
             .gallery, .service-grid {
                 grid-template-columns: 1fr 1fr;
             }
-        
+        }
 
         @media(max-width:550px) {
             .gallery, .winding-grid, .service-grid {
@@ -305,7 +305,7 @@
     </style>
 </head>
 <body>
-}
+
     <!-- HEADER --> <header> <div class="logo"> ⚡ EXCEL ELECTRICALS </div> <nav> <a href="#home">Home</a> <a href="#motors">Motors</a> <a href="#winding">Winding</a> <a href="#services">Services</a> <a href="#contact">Contact</a> </nav> </header> <!-- HERO --> <section class="hero" id="home"> <div class="hero-content"> <h1> ELECTRIC MOTOR <span>WINDING & REPAIR</span> </h1> <p> Professional electric motor rewinding, motor repair, stator winding, rotor service and motor component replacement in Choondy, Aluva. </p> <a class="button" href="tel:+918590259451"> 📞 CALL NOW </a> <a class="button" href="mailto:excelelectricalswork@gmail.com">Email </a> </div> <div class="hero-image"> <!-- ELECTRIC MOTOR IMAGE --> <img src="75%20Hp.webp" alt="75 HP Motor"> </div> </section> <!-- MOTOR PICTURES --> <section class="motor-gallery" id="motors"> <div class="title"> <small>ELECTRIC MOTOR</small> <h2>Motor Pictures</h2> <p> Electric motors, stators, rotors and motor components </p> </div> <div class="gallery">
   <div class="motor-card">
     <img src="Inducton%20motor.webp" alt="Induction Motor">
