@@ -301,6 +301,7 @@
             .hero-image img {
                 height: 300px;
             }
+            <img src="...">tag
             
         }
        
