@@ -357,8 +357,7 @@
   </div>
  </div>
 
-</section>
-<!-- WINDING SECTION -->
+</section><!-- WINDING SECTION -->
 <section class="winding" id="winding">
   <div class="title">
     <small>MOTOR REWINDING</small>
