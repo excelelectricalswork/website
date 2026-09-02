@@ -346,6 +346,27 @@
   <div class="motor-card">
     <img src="75%20Hp.webp" alt="75 HP Motor">
   </div>
-</div> </section> <!-- WINDING --> <section class="winding" id="winding"> <div class="title"> <small>MOTOR REWINDING</small> <h2>Motor Winding</h2> <p> Professional winding and rewinding related images </p> </div> <div class="winding-grid"> <div class="winding-card"> <img src="file:///C:/Users/Intel/OneDrive/Desktop/winding%20image/Warnishng.webp?auto=format&fit=crop&w=1200&q=90" alt="Motor Stator Winding"> <div class="winding-text"> <h3>Stator Winding</h3> <p> Professional electric motor winding service. </p> </div> </div> <div class="winding-card"> <img src="file:///C:/Users/Intel/OneDrive/Desktop/winding%20image/motor%20wind..webp?auto=format&fit=crop&w=1200&q=90" alt="Electric Motor Rewinding"> <div class="winding-text"> <h3>Motor Rewinding</h3> <p> Complete motor rewinding and repair work. </p> </div> </div> </div> </section> <!-- SERVICES --> <section class="services" id="services"> <div class="title"> <small>OUR SERVICES</small> <h2>Motor Services</h2> </div> <div class="service-grid"> <div class="service"> <h3>⚡ Motor Winding</h3> <p> Motor winding and rewinding for electric motors. </p> </div> <div class="service"> <h3>⚙️ Motor Repair</h3> <p> Complete electrical and mechanical motor repair. </p> </div> <div class="service"> <h3>🔩 Bearing Change</h3> <p> Bearing inspection and replacement. </p> </div> <div class="service"> <h3>🔋 Capacitor Change</h3> <p> Motor capacitor testing and replacement. </p> </div> <div class="service"> <h3>🌀 Stator & Coil</h3> <p> Stator coil and winding related service. </p> </div> <div class="service"> <h3>🔧 Motor Parts</h3> <p> Motor component replacement and fitting. </p> </div> </div> </section> <!-- CONTACT --> <section class="contact" id="contact"> <h2>EXCEL ELECTRICALS</h2> <p> Motor Winding & Repair<br> Choondy, Aluva, Kerala </p> <a class="button" href="https://wa.me/918590259451" target="_blank"> 💬 WHATSAPP </a> <a class="button" href="tel:+918590259451"> 📞 CALL </a> <a class="button"  href="mailto:excelelectricalswork@gmail.com" >Email </> </a> <!-- FOOTER --> <footer> <p> © 2026 <span>EXCEL ELECTRICALS</span> </p> GSTIN/UIN:32AAGPX3837Q1ZZ <p> Motor Winding • Motor Repair • Choondy • Aluva </p> </footer>
+</div> </section> <!-- WINDING SECTION -->
+<section class="winding" id="winding">
+  <div class="title">
+    <small>MOTOR REWINDING</small>
+    <h2>Motor Winding</h2>
+    <p>Professional winding and rewinding related images</p>
+  </div>
+
+  <div class="winding-grid">
+    <div class="winding-card">
+      <img src="motor%20wind..webp" alt="Stator Winding">
+      <h3>Stator Winding</h3>
+      <p>Professional electric motor winding service.</p>
+    </div>
+
+    <div class="winding-card">
+      <img src="repair%20motor.webp" alt="Motor Rewinding">
+      <h3>Motor Rewinding</h3>
+      <p>Complete motor rewinding and repair work.</p>
+    </div>
+  </div>
+</section> <!-- SERVICES --> <section class="services" id="services"> <div class="title"> <small>OUR SERVICES</small> <h2>Motor Services</h2> </div> <div class="service-grid"> <div class="service"> <h3>⚡ Motor Winding</h3> <p> Motor winding and rewinding for electric motors. </p> </div> <div class="service"> <h3>⚙️ Motor Repair</h3> <p> Complete electrical and mechanical motor repair. </p> </div> <div class="service"> <h3>🔩 Bearing Change</h3> <p> Bearing inspection and replacement. </p> </div> <div class="service"> <h3>🔋 Capacitor Change</h3> <p> Motor capacitor testing and replacement. </p> </div> <div class="service"> <h3>🌀 Stator & Coil</h3> <p> Stator coil and winding related service. </p> </div> <div class="service"> <h3>🔧 Motor Parts</h3> <p> Motor component replacement and fitting. </p> </div> </div> </section> <!-- CONTACT --> <section class="contact" id="contact"> <h2>EXCEL ELECTRICALS</h2> <p> Motor Winding & Repair<br> Choondy, Aluva, Kerala </p> <a class="button" href="https://wa.me/918590259451" target="_blank"> 💬 WHATSAPP </a> <a class="button" href="tel:+918590259451"> 📞 CALL </a> <a class="button"  href="mailto:excelelectricalswork@gmail.com" >Email </> </a> <!-- FOOTER --> <footer> <p> © 2026 <span>EXCEL ELECTRICALS</span> </p> GSTIN/UIN:32AAGPX3837Q1ZZ <p> Motor Winding • Motor Repair • Choondy • Aluva </p> </footer>
 </body>
 </html>
