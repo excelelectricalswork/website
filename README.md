@@ -333,6 +333,7 @@
             <h1>ELECTRIC MOTOR <span>WINDING & REPAIR</span></h1>
             <p>Professional motor winding, stator rewinding, rotor servicing, and component replacements in Choondy, Aluva.</p>
             <div class="hero-buttons">
+                <a class="button" href="tel:+918590259451"> 📞 CALL NOW </a> 
                 <a class="button" href="https://wa.me/918590259451" target="_blank">WhatsApp Us</a>
                 <a class="button button-secondary" href="mailto:excelelectricalswork@gmail.com">Email Us</a>
             </div>
@@ -449,6 +450,7 @@
         </div>
         <p>📍 Choondy, Aluva, Ernakulam, Kerala</p>
         <div class="contact-buttons">
+            <a class="button" href="tel:+918590259451"> 📞 CALL NOW </a> 
             <a class="button" href="https://wa.me/918590259451" target="_blank">Chat on WhatsApp</a>
             <a class="button button-secondary" href="mailto:excelelectricalswork@gmail.com">Send Email</a>
         </div>
