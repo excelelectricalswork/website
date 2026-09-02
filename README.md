@@ -357,12 +357,13 @@
   </div>
  </div>
 
-</section><!-- WINDING SECTION -->
+</section> 
+<!-- WINDING SECTION -->
 <section class="winding" id="winding">
   <div class="title">
     <small>MOTOR REWINDING</small>
     <h2>Motor Winding</h2>
-    <p>Professional winding and rewinding related images.</p>
+    <p>Professional winding and rewinding-related images.</p>
   </div>
 
     <div class="winding-card">
