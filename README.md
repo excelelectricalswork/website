@@ -9,10 +9,6 @@
 <body>
   <!-- Your header code starts here -->
   <header>
-    <div class="logo">
-      <h2>EXCEL ELECTRICALS</h2>
-    </div>
-    ...
         * {
             margin: 0;
             padding: 0;
