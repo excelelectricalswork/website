@@ -339,7 +339,7 @@
             </div>
         </div>
         <div class="hero-image">
-            <img src="75X20Hp.webp" alt="75 HP Industrial Electric Motor">
+            <img src="75%20Hp.webp" alt="75 HP Motor"> 
         </div>
     </section>
 
