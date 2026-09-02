@@ -464,7 +464,7 @@
         <div class="contact-buttons">
             <a class="button" href="tel:+918590259451"> 📞 CALL NOW </a> 
             <a class="button" href="https://wa.me/918590259451" target="_blank">Chat on WhatsApp</a>
-            <a class="button button-secondary" href="mailto:excelelectricalswork@gmail.com">Send Email</a>
+            <a class="button" href="mailto:excelelectricalswork@gmail.com"> <i class="fa-solid fa-envelope"></i> Email Us</a>
         </div>
     </section>
 
