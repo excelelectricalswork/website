@@ -139,7 +139,6 @@
      background: #151a21;
      border: 1px solid #2b323b;
      border-radius: 15px;
-     overflow: hidden;
      transition: .3s;
  }
 
@@ -357,7 +356,7 @@
     </div>
   </div>
   
-</section>
+    </section>
 
 <!-- WINDING SECTION -->
 <section class="winding" id="winding">
