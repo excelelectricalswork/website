@@ -136,37 +136,31 @@
         }
 
         .motor-card {
-            background: #151a21;
-            border: 1px solid #2b323b;
-            border-radius: 15px;
-            overflow: hidden;
-            transition: .3s;
-        }
+  background: #151a21;
+  border: 1px solid #2b323b;
+  border-radius: 15px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
 
-            .motor-card:hover {
-                transform: translateY(-8px);
-                border-color: #ffbd00;
-            }
+.motor-card img {
+  width: 100%;
+  height: 220px; /* Reduced from 100% to allow text visibility */
+  object-fit: cover;
+}
 
-            .motor-card img {
-                width: 100%;
-                height: 250px;
-                object-fit: cover;
-            }
+.motor-card h3 {
+  color: #ffbd00;
+  font-size: 18px;
+  padding: 15px 15px 5px 15px;
+}
 
-        .motor-info {
-            padding: 20px;
-        }
-
-            .motor-info h3 {
-                color: #ffbd00;
-                margin-bottom: 8px;
-            }
-
-            .motor-info p {
-                color: #aeb5bd;
-                font-size: 14px;
-            }
+.motor-card p {
+  color: #aeb5bd;
+  font-size: 14px;
+  padding: 0 15px 15px 15px;
+}
         /* winding */
 
         .winding {
