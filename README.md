@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -124,12 +124,24 @@
             background-color: #30363d;
         }
 
-        .hero-image {
-            flex: 1 1 400px;
-            border-radius: 12px;
-            overflow: hidden;
-            border: 1px solid #30363d;
-        }
+        /* FIXED HERO IMAGE FOR DESKTOP & MOBILE */
+.hero-image {
+    flex: 1 1 350px;
+    max-width: 450px; /* Limits how wide the image box can stretch on desktop */
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #30363d;
+}
+
+.hero-image img {
+    width: 100%;
+    height: 380px; /* Sets a consistent height on desktop */
+    object-fit: cover; /* Crops and fills the box cleanly without black space */
+    object-position: center;
+    display: block;
+}
 
         /* SECTIONS COMMON */
         section {
