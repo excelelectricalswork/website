@@ -400,7 +400,6 @@
                 <a class="button" href="https://wa.me/918590259451" target="_blank">WhatsApp 💬</a>
                 <a class="button" href="mailto:excelelectricalswork@gmail.com">Email </a>
             </div>
-        </div>
         <div class="hero-image">
             <img src="75%20Hp.webp" alt="75 HP Motor"> 
         </div>
