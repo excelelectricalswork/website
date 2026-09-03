@@ -525,7 +525,7 @@
   <div class="map-container">
     <!-- Replace the src below with your copied Google Maps iframe link -->
     <iframe 
-      src="https://www.google.com/maps/embed?pb=YOUR_EMBED_CODE_HERE" 
+      src="https://maps.google.com/maps?q=Excel%20Electricals,%20Choondy,%20Aluva&t=&z=15&ie=UTF8&iwloc=&output=embed"  
       width="100%" 
       height="350" 
       style="border:0;" 
