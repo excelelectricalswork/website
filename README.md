@@ -542,10 +542,10 @@
   </div>
   <!-- Paste your generated widget code here -->
 </section>
-<!-- CUSTOM REVIEWS & STAR RATING SECTION -->
+<!-- SINGLE CLEAN REVIEWS SECTION -->
 <section id="reviews" class="reviews-section">
   <div class="section-title">
-    <h2>WHAT OUR CUSTOMERS SAY</h2>
+    <h2>CUSTOMER REVIEWS</h2>
     <div class="overall-rating">
       <span class="rating-score">4.9</span>
       <span class="stars">⭐⭐⭐⭐⭐</span>
@@ -569,7 +569,6 @@
     </div>
   </div>
 </section>
-
     <!-- FOOTER -->
     <footer>
         <p>© 2026 <span>EXCEL ELECTRICALS</span> | GSTIN: 32AAGPX3837Q1ZZ</p>
