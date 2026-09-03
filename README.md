@@ -394,6 +394,7 @@
         <div class="hero-content">
             <h1>ELECTRIC MOTOR <span>WINDING & REPAIR</span></h1>
             <p>Professional motor winding, stator rewinding, rotor servicing, and component replacements in Choondy, Aluva.</p><span class="rating-score">4.9</span><span class="stars">⭐⭐⭐⭐⭐</span><span class="total-reviews">(Google Verified Reviews)</span>
+            </div>
             <div class="hero-buttons">
                 <a class="button" href="tel:+918590259451"> 📞 CALL NOW </a> 
                 <a class="button" href="https://wa.me/918590259451" target="_blank">WhatsApp 💬</a>
@@ -543,22 +544,6 @@
       <span class="rating-score">4.9</span>
       <span class="stars">⭐⭐⭐⭐⭐</span>
       <span class="total-reviews">(Google Verified Reviews)</span>
-    </div>
-  </div>
-
-  <div class="reviews-grid">
-    <!-- Review Card 1 -->
-    <div class="review-card">
-      <div class="stars">⭐⭐⭐⭐⭐</div>
-      <p class="review-text">"Excellent motor winding and repair work! Very professional service and fast delivery."</p>
-      <h4 class="customer-name">- Commercial Client</h4>
-    </div>
-
-    <!-- Review Card 2 -->
-    <div class="review-card">
-      <div class="stars">⭐⭐⭐⭐⭐</div>
-      <p class="review-text">"Highly knowledgeable team. Quick diagnostic and precise rewinding services."</p>
-      <h4 class="customer-name">- Industrial Customer</h4>
     </div>
   </div>
 </section>
