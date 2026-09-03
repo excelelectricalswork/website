@@ -12,6 +12,56 @@
             padding: 0;
             box-sizing: border-box;
         }
+        /* Location & Reviews Styling */
+.reviews-section, .location-section {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.overall-rating {
+  margin: 10px 0 30px;
+  font-size: 1.1rem;
+}
+
+.rating-score {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #f39c12;
+}
+
+.reviews-grid {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.review-card {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  width: 280px;
+  text-align: left;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.review-card .stars {
+  margin-bottom: 10px;
+}
+
+.review-card .customer-name {
+  margin-top: 15px;
+  font-weight: 600;
+  color: #555;
+}
+
+.map-container iframe {
+  border-radius: 8px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 
         body {
             font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
@@ -467,6 +517,58 @@
             <a class="button" href="mailto:excelelectricalswork@gmail.com"> Email</a>
         </div>
     </section>
+    <!-- LOCATION MAP SECTION -->
+<section id="location" class="location-section">
+  <div class="section-title">
+    <h2>OUR LOCATION</h2>
+  </div>
+  <div class="map-container">
+    <!-- Replace the src below with your copied Google Maps iframe link -->
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=YOUR_EMBED_CODE_HERE" 
+      width="100%" 
+      height="350" 
+      style="border:0;" 
+      allowfullscreen="" 
+      loading="lazy" 
+      referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+  </div>
+</section>
+<!-- LIVE GOOGLE REVIEWS SECTION -->
+<section id="reviews" class="reviews-section">
+  <div class="section-title">
+    <h2>CUSTOMER REVIEWS</h2>
+  </div>
+  <!-- Paste your generated widget code here -->
+</section>
+<!-- CUSTOM REVIEWS & STAR RATING SECTION -->
+<section id="reviews" class="reviews-section">
+  <div class="section-title">
+    <h2>WHAT OUR CUSTOMERS SAY</h2>
+    <div class="overall-rating">
+      <span class="rating-score">4.9</span>
+      <span class="stars">⭐⭐⭐⭐⭐</span>
+      <span class="total-reviews">(Google Verified Reviews)</span>
+    </div>
+  </div>
+
+  <div class="reviews-grid">
+    <!-- Review Card 1 -->
+    <div class="review-card">
+      <div class="stars">⭐⭐⭐⭐⭐</div>
+      <p class="review-text">"Excellent motor winding and repair work! Very professional service and fast delivery."</p>
+      <h4 class="customer-name">- Commercial Client</h4>
+    </div>
+
+    <!-- Review Card 2 -->
+    <div class="review-card">
+      <div class="stars">⭐⭐⭐⭐⭐</div>
+      <p class="review-text">"Highly knowledgeable team. Quick diagnostic and precise rewinding services."</p>
+      <h4 class="customer-name">- Industrial Customer</h4>
+    </div>
+  </div>
+</section>
 
     <!-- FOOTER -->
     <footer>
