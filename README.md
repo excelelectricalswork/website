@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta name="google-site-verification" content="gaZLYf3QpYrpOi2PaWV7__ObWA9Dc9o8QbtdTvrxpvc" />
+    google-site-verification=2qRnmMOU51GWk3rx-tL2TwbUAd1kOVvjw9caXI6AvrA
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Excel Electricals | Motor Winding & Repair Workshop</title>
