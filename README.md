@@ -398,7 +398,8 @@
             <div class="hero-buttons">
                 <a class="button" href="tel:+918590259451"> 📞 CALL NOW </a> 
                 <a class="button" href="https://wa.me/918590259451" target="_blank">WhatsApp 💬</a>
-                <a class="button" href="mailto:excelelectricalswork@gmail.com">Email </a>
+                <a class="button" href="mailto:excelelectricalswork@gmail.com">Email<img width="1600" height="1141" alt="WhatsApp Image 2026-09-03 at 3 24 47 PM" src="https://github.com/user-attachments/assets/2ca26ff1-1945-4397-a424-8f29b9c866a9" />
+ </a>
             </div>
         <div class="hero-image">
             <img src="75%20Hp.webp" alt="75 HP Motor"> 
