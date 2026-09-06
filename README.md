@@ -1,6 +1,4 @@
 <http>
-<index>
-  </html>
   <html lang="en">
 <head>
   <meta name="google-site-verification" content="z11_GCFdA35Dy1fuy4dwTMCMZ76gstIOUqAMsWB5c9A" />
