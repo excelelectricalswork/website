@@ -1,7 +1,6 @@
 <http>
 <html lang="en">
 <head>
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="z11_GCFdA35Dy1fuy4dwTMCMZ76gstIOUqAMsWB5c9A" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
